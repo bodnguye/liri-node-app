@@ -1,23 +1,69 @@
 # liri-node-app
 
-## Requirements
-- Make a Node.js app that depends on user input from the command line
-- Integrate Twitter, Spotify, and OMDb APIs via the appropriate NPM modules
-- Use API calls and parse through returned JSON objects, outputting them in a specified format
-- Read commands and queries from file
+**Contributor**: `Bobby Nguyen`
+
+**Created on**: `May 18 2019`
+
+## Introduction
+LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives back data. Liri has integrated Bands In Town, Spotify, and OMDb APIs via  NPM modules. The `commands` that Liri can use are:
+   * `concert-this`
+
+   * `spotify-this-song`
+
+   * `movie-this`
+
+   * `do-what-it-says`
+
 
 ## Technologies Used
 - Node.js
 - JavaScript
-- Twitter API (via twitter npm module)
-- Spotify API (via spotify npm module)
-- OMDb API (via request npm module)
+- API's:
+    - Bands in Town API 
+    - OMDb API
+- Node Packages:
+    -  Node-Spotify-API
+    - Axios
+    - Moment
+    - DotEnv
+    - fs
 
-## Code Explanation
-- Authentication keys for Twitter are stored in "keys.js", and we are exporting its contents to the main "liri.js" file
-- What our app does depends on what the user types, and there are 4 main functions: (1) prints latest tweets, (2) Spotify lookup for a song, (3) OMDb lookup for a movie, and (4) read command and query from another file
-- The program makes a request to the Twitter API that is limited by parameters -- username and number of tweets, and we get back a JSON object that includes an array of the 20 most recent tweets; from there, we selectively output using console.log
-- The program also makes a request to the Spotify API, and we get back a JSON object that includes everything we need (artist(s), song, preview link, and album)
-- The program also makes a HTTP request to the OMDb API using the request NPM module, and we get back a JSON object that includes everything we need (title, year, IMDb rating, language, etc.)
-- The program also reads from a file called "random.text" and executes the command and query found there using string and array methods
-- Appropriate comments and error-checking has been added
+## Instruction Guide
+1. Open your terminal such as Bash.
+2. Navigate to the folder that contains the `liri.js` file. 
+3. Depending on the command you run, the output will vary. 
+
+    **Example 1**: Run the `concert-this` command
+    
+        node liri.js concert-this <name of artist or band>
+    
+    Output: The system will display a list of all events and locations where the artist or band will perform. It can result in multiple records. The system will also log all the results in the log.txt file. See screen-shot below:
+
+    ![Results](/screenshots/concert_this_results.PNG)
+
+    **Example 2**: Run the `spotify-this-song` command
+    
+        node liri.js spotify-this-song <name of song>
+    
+    Output: The system will display a list of information associated with the song. It can result in multiple records. The system will also log all the results in the log.txt file. See screen-shot below:
+
+    ![Results](/screenshots/spotify_this_results.PNG)
+
+    **Example 3**: Run the `movie-this` command
+    
+        node liri.js movie-this <name of movie>
+    
+    Output: The system will display information associated with the movie. The system will also log all the results in the log.txt file. See screen-shot below:
+
+    ![Results](/screenshots/movie_this_results.PNG)
+
+
+    **Example 4**: Run the `do-what-it-says` command
+        
+        node liri.js do-what-it-says
+        
+    Output: The system will read the text in the random.txt file, and perform the comman listed in the random.txt file. 
+    
+    See screen-shot below:
+
+    ![Results](/screenshots/dothis_this_results.PNG)
