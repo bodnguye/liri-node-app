@@ -55,7 +55,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
     
     See screen-shot:
 
-    ![Results](/screenshots/spotify-this.png)
+    ![Results](/screenshots/spotify-this-song.png)
     
     Liri will log all the results in the log.txt file.
     
