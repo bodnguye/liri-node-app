@@ -1,0 +1,175 @@
+
+Here is the movie with the result "no country for old men":
+
+Title: No Country for Old Men
+            Year: 2007
+            IMDB Rating: 8.1
+            Rotten Tomatoes Rating: 91
+            Country: USA
+            Language: English, Spanish
+            Plot: Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.
+            Actors: Tommy Lee Jones, Javier Bardem, Josh Brolin, Woody Harrelson
+
+========================================================================
+
+Here are some songs with the result "run":
+
+0. Artists: Beyoncé
+                Song: Run the World (Girls)
+                Album: 4
+                Preview: https://p.scdn.co/mp3-preview/c5e90d8d93467fc4aeda29c2cbefaa494081232a?cid=c843655baa424fc1a6ce5bba0f946cb4
+
+========================================================================
+
+Here are some songs with the result "run":
+
+1. Artists: Avicii
+                Song: Hope There's Someone
+                Album: Fast Pop EDM House Run
+                Preview: null
+
+========================================================================
+
+Here are some songs with the result "run":
+
+2. Artists: Bruce Springsteen
+                Song: Born to Run
+                Album: Born To Run
+                Preview: https://p.scdn.co/mp3-preview/bac7b351bb2f85c715f66be9b36b8a1922081404?cid=c843655baa424fc1a6ce5bba0f946cb4
+
+========================================================================
+
+Here are some songs with the result "run":
+
+3. Artists: Bass Santana
+                Song: Make Eem Run!
+                Album: XXXTENTACION Presents: Members Only, Vol. 4
+                Preview: https://p.scdn.co/mp3-preview/36dd860eaf88556c9f252dfad15ac200a4f823f3?cid=c843655baa424fc1a6ce5bba0f946cb4
+
+========================================================================
+
+Here are some songs with the result "run":
+
+4. Artists: The Chainsmokers
+                Song: Kanye - Ookay Remix
+                Album: Fast Pop EDM House Run
+                Preview: null
+
+========================================================================
+
+Here are some songs with the result "electric feel":
+
+0. Artists: MGMT
+                Song: Electric Feel
+                Album: Oracular Spectacular
+                Preview: https://p.scdn.co/mp3-preview/dba49cb2290710a45cba747b0a6cf3f9c869ecfe?cid=c843655baa424fc1a6ce5bba0f946cb4
+
+========================================================================
+
+Here are some songs with the result "electric feel":
+
+1. Artists: Henry Green
+                Song: Electric Feel
+                Album: Electric Feel
+                Preview: https://p.scdn.co/mp3-preview/9f68d864325aa2e07db318fc6086bfd589d200ef?cid=c843655baa424fc1a6ce5bba0f946cb4
+
+========================================================================
+
+Here are some songs with the result "electric feel":
+
+2. Artists: Coast Modern
+                Song: Electric Feel
+                Album: Electric Feel
+                Preview: https://p.scdn.co/mp3-preview/0c981d3457de6ab33722647717f204accdf1428d?cid=c843655baa424fc1a6ce5bba0f946cb4
+
+========================================================================
+
+Here are some songs with the result "electric feel":
+
+3. Artists: Henry Green
+                Song: Electric Feel (Kygo Remix)
+                Album: Electric Feel
+                Preview: https://p.scdn.co/mp3-preview/47b538ac87a1e9ef633a65aa41091c35e8a5c6bf?cid=c843655baa424fc1a6ce5bba0f946cb4
+
+========================================================================
+
+Here are some songs with the result "electric feel":
+
+4. Artists: MGMT
+                Song: Electric Feel - Justice Remix
+                Album: Electric Feel (Justice Remix)
+                Preview: https://p.scdn.co/mp3-preview/2b03dd880b04ebb41c0d98460a323f6995bc7dc7?cid=c843655baa424fc1a6ce5bba0f946cb4
+
+========================================================================
+
+Here are some concerts with the result "MGMT":
+
+0. Venue: 20 Monroe Live with Warpaint
+                City: Grand Rapids
+                Date: Wed May 15 2019 19:00:48 GMT-0700
+
+========================================================================
+
+Here are some concerts with the result "MGMT":
+
+1. Venue: Stage AE with Warpaint
+                City: Pittsburgh
+                Date: Thu May 16 2019 19:00:22 GMT-0700
+
+========================================================================
+
+Here are some concerts with the result "MGMT":
+
+2. Venue: College Street Music Hall with Warpaint
+                City: New Haven
+                Date: Fri May 17 2019 19:00:58 GMT-0700
+
+========================================================================
+
+Here are some concerts with the result "MGMT":
+
+3. Venue: Santa Teresa Festival
+                City: Sainte-thérèse
+                Date: Sat May 18 2019 19:00:51 GMT-0700
+
+========================================================================
+
+Here are some concerts with the result "MGMT":
+
+4. Venue: The Capitol Theatre with Warpaint
+                City: Port Chester
+                Date: Mon May 20 2019 19:00:23 GMT-0700
+
+========================================================================
+
+Here are some concerts with the result "MGMT":
+
+5. Venue: Webster Hall with Warpaint
+                City: New York
+                Date: Wed May 22 2019 19:00:33 GMT-0700
+
+========================================================================
+
+Here are some concerts with the result "MGMT":
+
+6. Venue: Webster Hall with Warpaint
+                City: New York
+                Date: Thu May 23 2019 19:00:12 GMT-0700
+
+========================================================================
+
+Here are some concerts with the result "MGMT":
+
+7. Venue: Webster Hall with Warpaint
+                City: New York
+                Date: Fri May 24 2019 19:00:32 GMT-0700
+
+========================================================================
+
+Here are some concerts with the result "MGMT":
+
+8. Venue: Schimanski - MGMT (DJ SET)
+                City: Brooklyn
+                Date: Fri May 24 2019 21:00:00 GMT-0700
+
+========================================================================
