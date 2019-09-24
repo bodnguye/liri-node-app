@@ -31,8 +31,9 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
 ## Instruction Guide
 1. Open terminal.
 2. Navigate to the `liri-node-app` folder that contains the `liri.js` file. 
-3. Run the following Commands.
-4. Get results
+3. Run `npm install`.
+4. Run the following Commands.
+5. Get results
 
     **Use-Case 1**: Run the `concert-this` command
     
